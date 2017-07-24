@@ -13,6 +13,9 @@
 * [Trier Sistemas](http://www.triersistemas.com.br/)
 * [Ideall Sistemas](http://www.ideallsistemas.com.br/)
 
+## Blumenau
+* [Philips Workplace Innovation ](http://www.philips.com.br/a-w/about/news/archive/standard/news/press/2016/20160621-philips-technology-center-blumenau.html)
+
 ## Chapecó
 * [SGI Sistemas](http://www.sgisistemas.com.br/)
 
