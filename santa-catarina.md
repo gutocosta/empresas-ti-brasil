@@ -4,6 +4,7 @@
 * [Braço do Norte](#braço-do-norte)
 * [Chapecó](#chapecó)
 * [Criciúma](#criciúma)
+* [Florianópolis](#florianópolis)
 * [Joinville](#joinville)
 * [Mafra](#mafra)
 * [Tubarão](#tubarão)
@@ -18,6 +19,18 @@
 
 ## Chapecó
 * [SGI Sistemas](http://www.sgisistemas.com.br/)
+
+## Florianópolis
+* [Dígitro](http://www.digitro.com)
+* [ESSS](http://www.esss.com.br)
+* [GeekHunter](https://www.geekhunter.com.br/)
+* [Gennera](https://www.gennera.com.br/)
+* [Involves](http://www.involves.com.br/pt)
+* [Labbo](https://www.labbo.com.br/)
+* [Pixeon](http://pixeon.com.br/)
+* [Softplan](https://www.softplan.com.br/)
+* [Supero](https://www.supero.com.br/)
+* [Way2 Technology](http://www.way2.com.br)
 
 ## Criciúma
 * [Betha Sistemas](http://betha.com.br/)
