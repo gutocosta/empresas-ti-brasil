@@ -8,7 +8,7 @@ O projeto tem o objetivo de listar as empresas brasileiras da área de tecnologi
 
 ## Quem pode contribuir?
 
-Todos podem contribuir com o projeto sera necessário a ajuda de todos para que esta lista fique maior, aceitamos sujestão, dicas e criticas.
+Todos podem contribuir com o projeto. Será necessário a ajuda de todos para que esta lista fique maior, aceitamos sujestão, dicas e criticas.
 
 ## Informação
 Até agora tudo que tem aqui foi retirado de outro respositório devido eu não conseguir entrar em contato com o dono pois estava querendo atualizar tomei a atitude de criar este proprio repositório.
