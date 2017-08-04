@@ -13,6 +13,7 @@
 
 ## Caxias do Sul
 * [Focco Sistemas de Gestão](https://www.focco.com.br)
+* [Gáutica](http://www.gautica.com/)
 * [Keyworks Tailormade Solutions](http://www.keyworks.com.br/)
 
 ## Novo Hamburgo
