@@ -1,6 +1,7 @@
 # Santa Catarina
 
 ## Sumário
+* [Araranguá](#araranguá)
 * [Braço do Norte](#braço-do-norte)
 * [Chapecó](#chapecó)
 * [Criciúma](#criciúma)
@@ -9,6 +10,10 @@
 * [Mafra](#mafra)
 * [Tubarão](#tubarão)
 * [Videira](#videira)
+
+## Araranguá
+* [Inovar Sistemas](http://www.inovarsistemas.info/)
+* [Octal Sistemas](http://www.octal.com.br/)
 
 ## Braço do Norte
 * [Trier Sistemas](http://www.triersistemas.com.br/)
