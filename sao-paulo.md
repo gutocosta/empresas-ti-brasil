@@ -7,6 +7,7 @@
 * [Bauru](#bauru)
 * [Botucatu](#botucatu)
 * [Campinas](#campinas)
+* [Guaratinguetá](#guaratinguetá)
 * [Hortolândia](#hortolândia)
 * [Indaiatuba](#indaiatuba)
 * [Itu](#itu)
@@ -69,6 +70,9 @@
 * [Softvaro](http://www.softvaro.com.br/) 
 * [Venturus](http://www.venturus.org.br/site/)
 * [Verisoft](http://www.verisoft.com.br/)
+
+## Guaratinguetá
+* [SOFTVALE Sistemas e Serviços](http://www.softvale.com.br/)
 
 ## Hortolândia
 * [IBM](http://www.ibm.com/br-pt/)
